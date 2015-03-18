@@ -20,7 +20,7 @@ public class YourFirstTestCaseScript {
   @Test
   public void testYourFirstTestCaseScript() {
 	 
-    [HERE YOUR CALL LOGIN PAGE OBJECT MODEL]	 
+    [HERE YOU CALL LOGIN PAGE OBJECT MODEL]	 
 	// Login 
 	LoginAndURLPOM LoginPage = new LoginAndURLPOM(driver);      
 	LoginPage.login();   
