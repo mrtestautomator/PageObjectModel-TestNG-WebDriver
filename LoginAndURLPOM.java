@@ -22,7 +22,7 @@ public class LoginAndURLPOM {
 	 
 	 public void login(){
 		 
-		 username.sendKeys("yourpassword123");
+		 username.sendKeys("yourusername123");
 		 password.sendKeys("yourpassword123");
 		 submit.click();
 	 }
